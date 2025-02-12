@@ -13,7 +13,7 @@
 1. **環境搭建：**
 
    - 請從頭建立一個 Next.js 專案。你可以使用上網查詢官方提供的指令。
-   - 確保專案能夠正確啟動（例如使用 `npm run dev` 或 `yarn dev`）。
+   - 確保專案能夠正確啟動，並支援Tailwindcss（例如使用 `npm run dev` 或 `yarn dev`）。
 
 2. **主頁搭建：**
    - 將我們提供的 `example/TodoList.tsx` 程式碼納入專案。
